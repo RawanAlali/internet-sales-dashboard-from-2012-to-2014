@@ -103,10 +103,7 @@ The Customer Details view provides deep insights into client demographics, indiv
 ![Customer Details](./Images/sales%20Dasboard%20(4).jpg)
 
 ### Key Features & Visualizations:
-- **Core KPI Cards:**
-  - **Total Sale**: `$22.24M`
-  - **Total Orders**: `58K`
-  - **Average Order Value (AOV)**: `$382.34`
+
 - **Customer Directory Table:** Granular data table listing individual clients with key attributes including `full_Name`, `Total Sale`, `DateFirstPurchase`, `City`, and `EmailAddress`.
 - **Top Performers Ranking (Top 10 SalesAmount by CustomerName):** Horizontal bar chart highlighting the highest-revenue generating customers (led by Jordan Turner, Maurice Shan, and Janet Munoz).
 - **Interactive Slicers:** Filter option by `Year`, `Customer_Name`, `Product Category`, `Product SubCategory`, and `Month`.
@@ -119,11 +116,7 @@ The Product Details workspace delivers actionable analytics on catalog performan
 
 ![Product Details](./Images/sales%20Dasboard%20(5).jpg)
 
-### Key Features & Visualizations:
-- **Core KPI Cards:**
-  - **Total Sale**: `$22.24M`
-  - **Total Orders**: `58K`
-  - **Average Order Value (AOV)**: `$382.34`
+
 - **Product Inventory & Financial Breakdown:** Detailed table displaying comprehensive product attributes such as `ProductName`, `Total Sale`, `StandardCost`, `Size`, lifecycle `Status` (Current vs Outdate), and `DealerPrice`.
 - **Top Products Ranking (Top 10 SalesAmount by ProductName):** Horizontal bar chart sorting the best-selling models, driven heavily by various configurations of the Mountain-200 and Road-250 series.
 - **Dynamic Filtering Pane:** Flexible drop-down filters supporting refined views by `Year`, `Product_Name`, `Product Category`, `Product SubCategory`, and `Month`.
