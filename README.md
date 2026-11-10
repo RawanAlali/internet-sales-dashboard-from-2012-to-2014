@@ -15,8 +15,8 @@ An end-to-end interactive Power BI analytical solution designed to track sales p
 - [Data Architecture & Model](#data-model)
 - [Navigation & User Interface](#navigation)
 - [Sales Overview Dashboard](#sales-overview)
-- [Customer Details Dashboard](#Customer)
-- [ Product Details Dashboard](#Product)
+- [Customer Details Dashboard](#customer)
+- [ Product Details Dashboard](#product)
 - [DAX Measures](#dax-measures)
 
 ---
@@ -95,7 +95,7 @@ The primary analytical workspace consolidates critical business metrics into an 
 
 ---
 
-## <a id="Customer"></a>👤 Customer Details Dashboard
+## <a id="customer"></a>👤 Customer Details Dashboard
 
 
 The Customer Details view provides deep insights into client demographics, individual purchasing behaviors, and high-value customer contributions:
@@ -110,7 +110,7 @@ The Customer Details view provides deep insights into client demographics, indiv
 
 ---
 
-## <a id="Product"></a>## 📦 Product Details Dashboard
+## <a id="product"></a>📦 Product Details Dashboard
 
 The Product Details workspace delivers actionable analytics on catalog performance, product specs, operational statuses, and pricing structures:
 
