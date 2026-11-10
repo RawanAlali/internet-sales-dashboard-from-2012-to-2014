@@ -11,7 +11,7 @@ An end-to-end interactive Power BI analytical solution designed to track sales p
 
 ## 📌 Table of Contents
 - [Overview](#-overview)
-- [Data Architecture & Modeling](#-data-architecture--modeling)
+- [Data Architecture & Modeling](#-data-architecture-modeling)
 - [User Interface & Navigation](#-user-interface--navigation)
 - [Sales Overview Dashboard](#-sales-overview-dashboard)
 - [DAX Measures](#-dax-measures)
@@ -35,9 +35,8 @@ The reporting layer relies on a robust **Star Schema** to optimize query perform
 
  ![Image Alt](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/083d154b173a3c567f3a970b405720022d723fa7/Images/sales%20Dasboard%20(1).jpg)
  
- <img src="https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/083d154b173a3c567f3a970b405720022d723fa7/Images/sales%20Dasboard%20(1).jpg" alt="pp" width="100%">
 
-  <img src="C:\Users\HP\Desktop\training\Ahmad Ali\internet-sales-dashboard-from-2012-to-2014\Images\sales Dasboard (3).jpg" alt="xx" width="100%">
+
  
 ### Model Components:
 - **`Fact_Sale`**: Central fact table storing granular transactional sales records (`SalesAmount`, `ProductKey`, `CustomerKey`, `OrderDateKey`, etc.).
@@ -53,7 +52,7 @@ The reporting layer relies on a robust **Star Schema** to optimize query perform
 
 A streamlined landing interface provides intuitiveness and fluid navigation across report sections:
 
-![Landing Page](./image_c6bb3c.png)
+![Landing Page][(./image_c6bb3c.png](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/381c967e256485b8a6a91e61f68cc61e5e0d2b56/Images/sales%20Dasboard%20(2).jpg))
 
 ### Main Navigation Modules:
 1. **Landing Page**: Executive hub and workspace introduction.
@@ -67,7 +66,7 @@ A streamlined landing interface provides intuitiveness and fluid navigation acro
 
 The primary analytical workspace consolidates critical business metrics into an interactive canvas:
 
-![Sales Overview](./image_c6bb1a.png)
+![Sales Overview]([./image_c6bb1a.png](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/381c967e256485b8a6a91e61f68cc61e5e0d2b56/Images/sales%20Dasboard%20(3).jpg))
 
 ### Key Features & Visualizations:
 - **Core KPI Cards:**
