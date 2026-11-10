@@ -16,10 +16,21 @@ An end-to-end interactive Power BI analytical solution designed to track sales p
 - [Sales Overview Dashboard](#-sales-overview-dashboard)
 - [DAX Measures](#-dax-measures)
 - [Getting Started](#-getting-started)
+- [Overview](#overview)
+- [Data Architecture & Model](#data-model)
+- [Navigation & User Interface](#navigation)
+- [Sales Overview Dashboard](#sales-overview)
+- [DAX Measures](#dax-measures)
 
 ---
 
+
+
+
+
+
 ## 📖 Overview
+## <a id="overview"></a>📖 Overview
 
 This business intelligence dashboard empowers stakeholders and analysts to:
 - Monitor core Key Performance Indicators (KPIs) such as Total Revenue, Order Volume, and Average Order Value (AOV).
@@ -30,6 +41,8 @@ This business intelligence dashboard empowers stakeholders and analysts to:
 ---
 
 ## 🏗️ Data Architecture & Modeling
+## <a id="data-model"></a>🏗️ Data Architecture & Model
+
 
 The reporting layer relies on a robust **Star Schema** to optimize query performance and ensure seamless DAX computations:
 
@@ -49,6 +62,8 @@ The reporting layer relies on a robust **Star Schema** to optimize query perform
 ---
 
 ## 🖥️ User Interface & Navigation
+## <a id="navigation"></a>🖥️ Navigation & User Interface
+
 
 A streamlined landing interface provides intuitiveness and fluid navigation across report sections:
 
@@ -64,6 +79,8 @@ A streamlined landing interface provides intuitiveness and fluid navigation acro
 ---
 
 ## 📈 Sales Overview Dashboard
+## <a id="sales-overview"></a>📈 Sales Overview Dashboard
+
 
 The primary analytical workspace consolidates critical business metrics into an interactive canvas:
 
@@ -80,8 +97,41 @@ The primary analytical workspace consolidates critical business metrics into an 
 - **Dynamic Slicers:** Comprehensive slicer pane supporting filtration by Year (`2012`, `2013`, `2014`), Month, Product Category, and SubCategory.
 
 ---
+## 👤 Customer Details Dashboard
+
+The Customer Details view provides deep insights into client demographics, individual purchasing behaviors, and high-value customer contributions:
+
+![Customer Details](./Images/sales%20Dasboard%20(4).jpg)
+
+### Key Features & Visualizations:
+- **Core KPI Cards:**
+  - **Total Sale**: `$22.24M`
+  - **Total Orders**: `58K`
+  - **Average Order Value (AOV)**: `$382.34`
+- **Customer Directory Table:** Granular data table listing individual clients with key attributes including `full_Name`, `Total Sale`, `DateFirstPurchase`, `City`, and `EmailAddress`.
+- **Top Performers Ranking (Top 10 SalesAmount by CustomerName):** Horizontal bar chart highlighting the highest-revenue generating customers (led by Jordan Turner, Maurice Shan, and Janet Munoz).
+- **Interactive Slicers:** Filter option by `Year`, `Customer_Name`, `Product Category`, `Product SubCategory`, and `Month`.
+
+---
+
+## 📦 Product Details Dashboard
+
+The Product Details workspace delivers actionable analytics on catalog performance, product specs, operational statuses, and pricing structures:
+
+![Product Details](./Images/sales%20Dasboard%20(5).jpg)
+
+### Key Features & Visualizations:
+- **Core KPI Cards:**
+  - **Total Sale**: `$22.24M`
+  - **Total Orders**: `58K`
+  - **Average Order Value (AOV)**: `$382.34`
+- **Product Inventory & Financial Breakdown:** Detailed table displaying comprehensive product attributes such as `ProductName`, `Total Sale`, `StandardCost`, `Size`, lifecycle `Status` (Current vs Outdate), and `DealerPrice`.
+- **Top Products Ranking (Top 10 SalesAmount by ProductName):** Horizontal bar chart sorting the best-selling models, driven heavily by various configurations of the Mountain-200 and Road-250 series.
+- **Dynamic Filtering Pane:** Flexible drop-down filters supporting refined views by `Year`, `Product_Name`, `Product Category`, `Product SubCategory`, and `Month`.
 
 ## 🧮 DAX Measures
+## <a id="dax-measures"></a>🧮 DAX Measures
+
 
 All calculations are structured inside the dedicated `measure` table:
 
