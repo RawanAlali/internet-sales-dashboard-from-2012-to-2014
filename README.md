@@ -35,6 +35,10 @@ The reporting layer relies on a robust **Star Schema** to optimize query perform
 
  ![Image Alt](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/083d154b173a3c567f3a970b405720022d723fa7/Images/sales%20Dasboard%20(1).jpg)
  
+ <img src="https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/083d154b173a3c567f3a970b405720022d723fa7/Images/sales%20Dasboard%20(1).jpg"alt="pp">
+
+  <img src=C:\Users\HP\Desktop\training\Ahmad Ali\internet-sales-dashboard-from-2012-to-2014\Images\sales Dasboard (3).jpg"alt="xx">
+ 
 ### Model Components:
 - **`Fact_Sale`**: Central fact table storing granular transactional sales records (`SalesAmount`, `ProductKey`, `CustomerKey`, `OrderDateKey`, etc.).
 - **`Dim-Customers`**: Customer attributes, demographics, and regional location data.
