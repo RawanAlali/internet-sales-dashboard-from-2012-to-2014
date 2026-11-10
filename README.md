@@ -52,7 +52,8 @@ The reporting layer relies on a robust **Star Schema** to optimize query perform
 
 A streamlined landing interface provides intuitiveness and fluid navigation across report sections:
 
-![Landing Page][(./image_c6bb3c.png](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/381c967e256485b8a6a91e61f68cc61e5e0d2b56/Images/sales%20Dasboard%20(2).jpg))
+![Image Alt](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/083d154b173a3c567f3a970b405720022d723fa7/Images/sales%20Dasboard%20(2).jpg)
+![Image Alt](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/381c967e256485b8a6a91e61f68cc61e5e0d2b56/Images/sales%20Dasboard%20(2).jpg)
 
 ### Main Navigation Modules:
 1. **Landing Page**: Executive hub and workspace introduction.
