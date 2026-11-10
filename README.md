@@ -33,7 +33,7 @@ This business intelligence dashboard empowers stakeholders and analysts to:
 
 The reporting layer relies on a robust **Star Schema** to optimize query performance and ensure seamless DAX computations:
 
- ![Image Alt]([(https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/main/Images/sales%20Dasboard%20(1).jpg))
+ ![Image Alt](image_url][(https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/main/Images/sales%20Dasboard%20(1).jpg))
  
 ### Model Components:
 - **`Fact_Sale`**: Central fact table storing granular transactional sales records (`SalesAmount`, `ProductKey`, `CustomerKey`, `OrderDateKey`, etc.).
