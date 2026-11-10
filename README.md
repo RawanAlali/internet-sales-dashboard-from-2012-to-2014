@@ -12,7 +12,7 @@ An end-to-end interactive Power BI analytical solution designed to track sales p
 ## 📌 Table of Contents
 - [Overview](#-overview)
 - [Data Architecture & Modeling](#-data-architecture-&-modeling)
-- [User Interface & Navigation](#-user-interface---navigation)
+- [User Interface & Navigation](#user-interface--navigation)
 - [Sales Overview Dashboard](#-sales-overview-dashboard)
 - [DAX Measures](#-dax-measures)
 - [Getting Started](#-getting-started)
