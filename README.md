@@ -112,7 +112,7 @@ The Customer Details view provides deep insights into client demographics, indiv
 
 ## <a id="product"></a>📦 Product Details Dashboard
 
-The Product Details workspace delivers actionable analytics on catalog performance, product specs, operational statuses, and pricing structures:
+The Product Details workspace delivers actionable analytics on Product performance, operational statuses, and pricing structures:
 
 ![Product Details](./Images/sales%20Dasboard%20(5).jpg)
 
