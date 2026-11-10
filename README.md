@@ -3,7 +3,7 @@
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
-[![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star_Schema-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Star_schema)
+[![Data Modeling](https://img.shields.io/badge/Data_Modeling:-Star_Schema-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Star_schema)
 
 An end-to-end interactive Power BI analytical solution designed to track sales performance, compare key metrics against target budgets, and analyze spatial and temporal purchasing patterns.
 
@@ -33,7 +33,7 @@ This business intelligence dashboard empowers stakeholders and analysts to:
 
 The reporting layer relies on a robust **Star Schema** to optimize query performance and ensure seamless DAX computations:
 
-![Data Model]([./2026-11-09%2012%2053%2043.png](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/main/Images/sales%20Dasboard%20(1).jpg))
+([./2026-11-09%2012%2053%2043.png](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/main/Images/sales%20Dasboard%20(1).jpg))
 
 ### Model Components:
 - **`Fact_Sale`**: Central fact table storing granular transactional sales records (`SalesAmount`, `ProductKey`, `CustomerKey`, `OrderDateKey`, etc.).
