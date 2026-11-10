@@ -12,7 +12,7 @@ An end-to-end interactive Power BI analytical solution designed to track sales p
 ## 📌 Table of Contents
 - [Overview](#-overview)
 - [Data Architecture & Modeling](#-data-architecture---modeling)
-- [User Interface & Navigation](#-user-interface--navigation)
+- [User Interface & Navigation](#-user-interface---navigation)
 - [Sales Overview Dashboard](#-sales-overview-dashboard)
 - [DAX Measures](#-dax-measures)
 - [Getting Started](#-getting-started)
@@ -53,7 +53,7 @@ The reporting layer relies on a robust **Star Schema** to optimize query perform
 A streamlined landing interface provides intuitiveness and fluid navigation across report sections:
 
 ![Image Alt](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/083d154b173a3c567f3a970b405720022d723fa7/Images/sales%20Dasboard%20(2).jpg)
-![Image Alt](https://github.com/RawanAlali/internet-sales-dashboard-from-2012-to-2014/blob/381c967e256485b8a6a91e61f68cc61e5e0d2b56/Images/sales%20Dasboard%20(2).jpg)
+
 
 ### Main Navigation Modules:
 1. **Landing Page**: Executive hub and workspace introduction.
@@ -74,7 +74,7 @@ The primary analytical workspace consolidates critical business metrics into an 
   - **Total Sale**: `$22.24M`
   - **Total Orders**: `58K`
   - **Average Order Value (AOV)**: `$382.34`
-- **Sales vs Budget Performance:** Visual scorecard highlighting total sales versus set targets along with variances ($1.13M budget surplus).
+- **Sales vs Budget Performance:** Visual scorecard highlighting total sales versus set targets along with variances ($1.13M  surplus).
 - **Geographic Breakdown (Total Sale by City):** Geospatial bubble map displaying sales density across regions.
 - **Trend Analysis (Sales vs Budget by Month):** Dual line graph highlighting seasonal performance and monthly target achievement.
 - **Dynamic Slicers:** Comprehensive slicer pane supporting filtration by Year (`2012`, `2013`, `2014`), Month, Product Category, and SubCategory.
